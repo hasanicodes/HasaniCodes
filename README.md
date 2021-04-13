@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @hasanicodes
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me at hasanicodes@gmail.com
+- you can reach me at hasanicodes@gmail.com
 
 <!---
 hasanicodes/hasanicodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
